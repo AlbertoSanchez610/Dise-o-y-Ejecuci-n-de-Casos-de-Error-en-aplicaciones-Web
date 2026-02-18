@@ -5,4 +5,4 @@
 
 ● Detecté y documenté 10 errores críticos, reduciendo los reportes de falla de los usuarios.
 
-<img src="[https://i.imgur.com/Wskj8cn.jpeg](https://imgur.com/a/kJXvhs9](https://imgur.com/a/BBTOHDW)">
+<img src="https://i.imgur.com/BkLAYfK.png">
